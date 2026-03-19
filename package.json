@@ -1,7 +1,7 @@
 {
-  "name": "minecraft-discord-bot",
+  "name": "𝐍𝐄𝐖 𝐒𝐓𝐀𝐓𝐄",
   "version": "1.8.3",
-  "description": "A feature-rich and highly customizable Discord bot that provides information about your Minecraft server.",
+  "description": "بوت لمعرفه حالة السيرفر",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
